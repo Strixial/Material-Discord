@@ -1,16 +1,14 @@
 /**
- * @name Material Discord
+ * @name Material Discord Mono
  * @version 3.0.4
- * @description A theme based on Google's Material Design
- * @author CapnKitten
+ * @description A theme based on Google's Material Design, using a monospaced font.
+ * @author CapnKitten, Strixial
  *
- * @website http://github.com/CapnKitten
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Material-Discord/css/source.css
- * @donate https://paypal.me/capnkitten
- * @invite jzJkA6Z
+ * @website http://github.com/Strixial/Material-Discord
+ * @source https://raw.githubusercontent.com/Strixial/Material-Discord/master/Source.css
  */
 
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
+@import url(https://raw.githubusercontent.com/Strixial/Material-Discord/master/Source.css);
 
 :root {
 	--accent-hue: 224;
